@@ -1,0 +1,7 @@
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+.abc{
+    margin:20px;
+    padding:10px;
+    border:1px solid black;
+    border-radius: 10px;;
+}
